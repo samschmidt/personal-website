@@ -68,7 +68,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #18BC9C;
+  background: #00274C;
   color: white;
 }
 header .container {
@@ -99,11 +99,11 @@ header .intro-text .skills {
     font-size: 4.75em;
   }
   header .intro-text .skills {
-    font-size: 1.75em;
+    font-size: 1.65em;
   }
 }
 .navbar-custom {
-  background: #2C3E50;
+  background: #808080;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
