@@ -509,3 +509,8 @@ fieldset[disabled] .btn-success.active {
 div#maincontent {
   outline: none;
 }
+input.form-control,
+textarea.form-control {
+  border: 2px solid #00274C;
+  border-radius: 8px;
+}
